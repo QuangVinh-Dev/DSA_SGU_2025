@@ -1,0 +1,22 @@
+Đề yêu cầu thông tin các phòng thi 
+    Gồm:
+    + Số phòng thi // co giá trị từ 1-200
+    + Nhà // chữ cái in hoa từ A-Z
+    + Khả năng chứa // số nguyên từ 0-100
+
+
+Ý niệm:
+    - Ta sử dụng cấu trúc dữ liệu struct để lưu các thông tin ở trên 
+        +Số phòng thi và Khả năng chứa có kiểu dữ liệu int
+        +Nhà có kiểu dữ liệu char
+    -Đề yêu cầu sắp xếp và in ra màn hình các phòng thi theo thứ tự
+        +Trong bài này ,em sử dụng thuật toán sắp xếp vun đống (HeapSort ) để tối ưu hóa tốc độ thuật toán
+            ***Tạo Heapify cho từng thông tin,sau đó tạo từng hàm HeapSort riêng lẻ để sắp xếp
+
+Sử dụng Test Key chạy thử    
+        // Dữ liệu mẫu
+        {1, 'A', 50},
+        {2, 'B', 100},
+        {3, 'A', 75},
+        {4, 'C', 25},
+        {5, 'B', 150}

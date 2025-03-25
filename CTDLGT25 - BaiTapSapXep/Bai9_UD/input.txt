@@ -1,0 +1,60 @@
+1
+Nguyen Van
+A
+1 1 2000
+Nam
+8.5
+2
+Tran Thi
+B
+2 2 2001
+Nu
+9.0
+3
+Le Van
+C
+3 3 2002
+Nam
+7.5
+4
+Pham Thi
+D
+4 4 2003
+Nu
+8.0
+5
+Hoang Van
+E
+5 5 2004
+Nam
+6.5
+6
+Nguyen Thi
+F
+6 6 2005
+Nu
+9.5
+7
+Tran Van
+G
+7 7 2006
+Nam
+7.0
+8
+Le Thi
+H
+8 8 2007
+Nu
+8.8
+9
+Pham Van
+I
+9 9 2008
+Nam
+6.0
+10
+Hoang Thi
+J
+10 10 2009
+Nu
+7.8
